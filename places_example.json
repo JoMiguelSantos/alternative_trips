@@ -1,0 +1,405 @@
+{
+    "json_result_object": {
+        "address_components": [
+            {
+                "long_name": "Werder",
+                "short_name": "Werder",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Potsdam-Mittelmark",
+                "short_name": "Potsdam-Mittelmark",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brandenburg",
+                "short_name": "BB",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Germany",
+                "short_name": "DE",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "14542",
+                "short_name": "14542",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"postal-code\">14542</span> <span class=\"locality\">Werder</span>, <span class=\"country-name\">Germany</span>",
+        "formatted_address": "14542 Werder, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.3996562,
+                "lng": 12.9241994
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.40085693029149,
+                    "lng": 12.9249051
+                },
+                "southwest": {
+                    "lat": 52.3981589697085,
+                    "lng": 12.9220823
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "c97aad41a900f62b17b14cf602481becc0440c12",
+        "name": "Blütentherme",
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102353849095005872631/photos\">David Eagleton</a>"
+                ],
+                "photo_reference": "CmRaAAAA2L95-inQUKxbj_ovWRhCOjzecXPRbsMl7xG050ZNtdqTS51DzGt7jLqolTGaYyN0FxxQGub4UElT6NTWKMZWHigBwrrUxVDN_2NqfXgLdO0X631dog_VC7V_Nv27BjqyEhBcCYj833ZKjbCm_PGVizvQGhQuyi0XYboroyw18ej3GVivDmtszw",
+                "width": 4032
+            },
+            {
+                "height": 2340,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104791432126770895185/photos\">Peter Hermann</a>"
+                ],
+                "photo_reference": "CmRaAAAAy1uoEq3T0dTbvbfen0hG-5rwme2xLRqIjk_jHB4l9FAv1LQzVC_hABcu35bdQ7oOxP8ei8cgpZFxrrdlQaHQTsOPgXeAtzEgOPGbWM9zwTbmM4ESLKir4HgKA0lA8WKcEhB9h6sLZEAT25CfGP0A5bGcGhRh1wpDDYv2VL2VTAhVOgqLQDQFLA",
+                "width": 4160
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102353849095005872631/photos\">David Eagleton</a>"
+                ],
+                "photo_reference": "CmRaAAAAHy3dGZNz7bEEk-7wPW71sbSsVdBJA1vrCCsxX3Q56CQg_BRYV0ki4-xsyQly7WthT3ojd_dcK1RV95k9hpIe5AtBzp1KhoYbBMVKzltiDW55uOc9kRHDS4tbK7OUyQQbEhAfTXJpFu_vFF1rz9fg_BJoGhR7MOwVXiDhwDi471M4N3PreC_tpg",
+                "width": 4032
+            },
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114668876866943685011/photos\">Annika Bußmann</a>"
+                ],
+                "photo_reference": "CmRaAAAAWA9BKZgNifhuAtDN3ZKQ4AiX8vccjFONSL3y1wLJDt5U7X_fx5Qg8dDlocHeyfqKiNKcVil-RroioqY3gYtBmGa_hwl_a-_p-XahdRI7HS2yX8bNE7hq6iFMcgZeN2uxEhAr-161csOKQrv2UBl4EYcCGhTsZrx-58b0MptPWMxDDezk6AiGCQ",
+                "width": 1920
+            },
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114668876866943685011/photos\">Annika Bußmann</a>"
+                ],
+                "photo_reference": "CmRaAAAAckACePllA1uuyzZw0mdDhQqjqXLQKZQ_F6_nHSFUWb5-Wu60dfPinukMh2pcD9AoQ-Y2Zz2cMWuqEfv7pwzFtVRFpRj1lwMPJHGb1fioujfhe_gE0ZxMFh75CvAm_T4EEhC6L1mPR-gqogYiXeyyC3ogGhTth4qrFOliXunqMoT0H3b3OB3mJw",
+                "width": 4608
+            },
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113500033904559444668/photos\">Toma Nikolajewitsch Kolmogorow</a>"
+                ],
+                "photo_reference": "CmRaAAAAOVxej-sjyhlmC5Sbifu82d0HMSIJKtr2KOWpk6g9MIJESt-bir-JXAxH2QZXzaHr3n1uG78EjXn-B9_077VNuJ-eJHWQtSmxObYziNTTPfw4mjFXdzz89IHSpOaJF54qEhANQf7th3nyt_2JARWZTikfGhRZOhsEk7J8qQATinhbo9-KSwXi1Q",
+                "width": 5312
+            },
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114668876866943685011/photos\">Annika Bußmann</a>"
+                ],
+                "photo_reference": "CmRaAAAAo5NxWPv6r7LP8y2DPiPZjIWhPmeYBDrNgebDNSrmuYp3O8HWzAVNhf4PBuXpnpMjgWzQmv_FV7HQ7P48OypFDabphneaR89Gc4S7r7BfIrnZut3sejjKfshZRuHWB3GrEhAwuQutUTBkIEr8DYZmnIWQGhQYchJ7yGfu87drrpLVBMie9bbypQ",
+                "width": 4608
+            },
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114668876866943685011/photos\">Annika Bußmann</a>"
+                ],
+                "photo_reference": "CmRaAAAAlS2oNlOGO262dAziOnjcaDIugzhUgzoD1za8NWh4YpJQipYb8iQsundUBoBXCsCOoC-3wFN-zfOVM2OiEMvpFssILR3mO37pnOorckfMr9y_lgnQ_Mh-fr1QgnrB87bqEhDLeAPj1FHVNviEqeGkpVR5GhR1s90JH9twbs42Vu1klDZ74OO4yg",
+                "width": 1920
+            },
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114668876866943685011/photos\">Annika Bußmann</a>"
+                ],
+                "photo_reference": "CmRaAAAASQirijVXxq2BSRUdJMHYrTjzK_kQo0BCMcDOR9xYu0kxDeKDjZwOITgoqgc5AoyS__BPhLTmZY_j7f50GpJldpFfGPvGESNamkYqyM5ePYoiA1MlFsWxPzorAN2i7p6uEhAug11FzORG0nHUT0QIGjbqGhTjWdCJAUY6AOOhcwFVS2OXZiknow",
+                "width": 1920
+            },
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114668876866943685011/photos\">Annika Bußmann</a>"
+                ],
+                "photo_reference": "CmRaAAAAfo7XOxRH-jRrGYepHPgUhN17R0_VDHe_QLeTm3rCxyiW_8y6frb4bAwUS1lDhAahcMuLk19nSC9JX-jl6P0hvpXkUAm567Y8ImxHW2iLKS2rWzXRrKU13hf7FtF-d92hEhA7kY8zOPH6oyuHOJrNChbmGhSdEYvLDX2EvpGE42h58NdtrCgJew",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJE6er07XzqEcRBSZW9Zun7eM",
+        "plus_code": {
+            "compound_code": "9WXF+VM Werder, Germany",
+            "global_code": "9F4J9WXF+VM"
+        },
+        "rating": 3.7,
+        "reference": "ChIJE6er07XzqEcRBSZW9Zun7eM",
+        "reviews": [
+            {
+                "author_name": "Ieva L",
+                "author_url": "https://www.google.com/maps/contrib/110700891975812680625/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh5.ggpht.com/-z1Cb4gq0GBY/AAAAAAAAAAI/AAAAAAAAAAA/7uagbBIag1I/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+                "rating": 1,
+                "relative_time_description": "a year ago",
+                "text": "It's a construction site, doesn't seem that the thermal pool will be open soon...",
+                "time": 1535887151
+            },
+            {
+                "author_name": "Meiko _",
+                "author_url": "https://www.google.com/maps/contrib/115829013514950464979/reviews",
+                "language": "de",
+                "profile_photo_url": "https://lh4.ggpht.com/-1jHUekJtTrs/AAAAAAAAAAI/AAAAAAAAAAA/wm_dOGoQaaY/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+                "rating": 5,
+                "relative_time_description": "a year ago",
+                "text": "Genial - das ist Kunst.",
+                "time": 1531979661
+            },
+            {
+                "author_name": "Andreas Wöhling",
+                "author_url": "https://www.google.com/maps/contrib/107053648040613280001/reviews",
+                "language": "de",
+                "profile_photo_url": "https://lh4.ggpht.com/-6RWsgMvptrw/AAAAAAAAAAI/AAAAAAAAAAA/Tpn_bs2VegM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+                "rating": 5,
+                "relative_time_description": "a year ago",
+                "text": "Sehr schön zum Spaziergang",
+                "time": 1533475476
+            }
+        ],
+        "scope": "GOOGLE",
+        "types": [
+            "amusement_park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "url": "https://maps.google.com/?cid=16423967704367900165",
+        "user_ratings_total": 3,
+        "utc_offset": 120,
+        "vicinity": "Werder"
+    },
+    "reference": "ChIJE6er07XzqEcRBSZW9Zun7eM",
+    "place_id": "ChIJE6er07XzqEcRBSZW9Zun7eM",
+    "vicinity": "Werder",
+    "lat": 52.3996562,
+    "lng": 12.9241994,
+    "viewport": {
+        "northeast": {
+            "lat": 52.40085693029149,
+            "lng": 12.9249051
+        },
+        "southwest": {
+            "lat": 52.3981589697085,
+            "lng": 12.9220823
+        }
+    },
+    "name": "Blütentherme",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "types": [
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+    ],
+    "id": "c97aad41a900f62b17b14cf602481becc0440c12",
+    "formatted_phone_number": null,
+    "international_phone_number": null,
+    "formatted_address": "14542 Werder, Germany",
+    "address_components": [
+        {
+            "long_name": "Werder",
+            "short_name": "Werder",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Potsdam-Mittelmark",
+            "short_name": "Potsdam-Mittelmark",
+            "types": [
+                "administrative_area_level_3",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brandenburg",
+            "short_name": "BB",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Germany",
+            "short_name": "DE",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "14542",
+            "short_name": "14542",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "street_number": null,
+    "street": null,
+    "city": "Werder",
+    "region": "Brandenburg",
+    "postal_code": "14542",
+    "country": "Germany",
+    "rating": 3.7,
+    "price_level": null,
+    "opening_hours": null,
+    "url": "https://maps.google.com/?cid=16423967704367900165",
+    "cid": 0,
+    "website": null,
+    "zagat_reviewed": null,
+    "zagat_selected": null,
+    "aspects": [],
+    "review_summary": null,
+    "photos": [
+        {
+            "width": 4032,
+            "height": 3024,
+            "photo_reference": "CmRaAAAA2L95-inQUKxbj_ovWRhCOjzecXPRbsMl7xG050ZNtdqTS51DzGt7jLqolTGaYyN0FxxQGub4UElT6NTWKMZWHigBwrrUxVDN_2NqfXgLdO0X631dog_VC7V_Nv27BjqyEhBcCYj833ZKjbCm_PGVizvQGhQuyi0XYboroyw18ej3GVivDmtszw",
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102353849095005872631/photos\">David Eagleton</a>"
+            ],
+            "api_key": "AIzaSyB8jdNn1SowwLsHvHd7ZWdlXd0vYlnNvCA"
+        },
+        {
+            "width": 4160,
+            "height": 2340,
+            "photo_reference": "CmRaAAAAy1uoEq3T0dTbvbfen0hG-5rwme2xLRqIjk_jHB4l9FAv1LQzVC_hABcu35bdQ7oOxP8ei8cgpZFxrrdlQaHQTsOPgXeAtzEgOPGbWM9zwTbmM4ESLKir4HgKA0lA8WKcEhB9h6sLZEAT25CfGP0A5bGcGhRh1wpDDYv2VL2VTAhVOgqLQDQFLA",
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104791432126770895185/photos\">Peter Hermann</a>"
+            ],
+            "api_key": "AIzaSyB8jdNn1SowwLsHvHd7ZWdlXd0vYlnNvCA"
+        },
+        {
+            "width": 4032,
+            "height": 3024,
+            "photo_reference": "CmRaAAAAHy3dGZNz7bEEk-7wPW71sbSsVdBJA1vrCCsxX3Q56CQg_BRYV0ki4-xsyQly7WthT3ojd_dcK1RV95k9hpIe5AtBzp1KhoYbBMVKzltiDW55uOc9kRHDS4tbK7OUyQQbEhAfTXJpFu_vFF1rz9fg_BJoGhR7MOwVXiDhwDi471M4N3PreC_tpg",
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102353849095005872631/photos\">David Eagleton</a>"
+            ],
+            "api_key": "AIzaSyB8jdNn1SowwLsHvHd7ZWdlXd0vYlnNvCA"
+        },
+        {
+            "width": 1920,
+            "height": 1080,
+            "photo_reference": "CmRaAAAAWA9BKZgNifhuAtDN3ZKQ4AiX8vccjFONSL3y1wLJDt5U7X_fx5Qg8dDlocHeyfqKiNKcVil-RroioqY3gYtBmGa_hwl_a-_p-XahdRI7HS2yX8bNE7hq6iFMcgZeN2uxEhAr-161csOKQrv2UBl4EYcCGhTsZrx-58b0MptPWMxDDezk6AiGCQ",
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114668876866943685011/photos\">Annika Bußmann</a>"
+            ],
+            "api_key": "AIzaSyB8jdNn1SowwLsHvHd7ZWdlXd0vYlnNvCA"
+        },
+        {
+            "width": 4608,
+            "height": 3456,
+            "photo_reference": "CmRaAAAAckACePllA1uuyzZw0mdDhQqjqXLQKZQ_F6_nHSFUWb5-Wu60dfPinukMh2pcD9AoQ-Y2Zz2cMWuqEfv7pwzFtVRFpRj1lwMPJHGb1fioujfhe_gE0ZxMFh75CvAm_T4EEhC6L1mPR-gqogYiXeyyC3ogGhTth4qrFOliXunqMoT0H3b3OB3mJw",
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114668876866943685011/photos\">Annika Bußmann</a>"
+            ],
+            "api_key": "AIzaSyB8jdNn1SowwLsHvHd7ZWdlXd0vYlnNvCA"
+        },
+        {
+            "width": 5312,
+            "height": 2988,
+            "photo_reference": "CmRaAAAAOVxej-sjyhlmC5Sbifu82d0HMSIJKtr2KOWpk6g9MIJESt-bir-JXAxH2QZXzaHr3n1uG78EjXn-B9_077VNuJ-eJHWQtSmxObYziNTTPfw4mjFXdzz89IHSpOaJF54qEhANQf7th3nyt_2JARWZTikfGhRZOhsEk7J8qQATinhbo9-KSwXi1Q",
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113500033904559444668/photos\">Toma Nikolajewitsch Kolmogorow</a>"
+            ],
+            "api_key": "AIzaSyB8jdNn1SowwLsHvHd7ZWdlXd0vYlnNvCA"
+        },
+        {
+            "width": 4608,
+            "height": 3456,
+            "photo_reference": "CmRaAAAAo5NxWPv6r7LP8y2DPiPZjIWhPmeYBDrNgebDNSrmuYp3O8HWzAVNhf4PBuXpnpMjgWzQmv_FV7HQ7P48OypFDabphneaR89Gc4S7r7BfIrnZut3sejjKfshZRuHWB3GrEhAwuQutUTBkIEr8DYZmnIWQGhQYchJ7yGfu87drrpLVBMie9bbypQ",
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114668876866943685011/photos\">Annika Bußmann</a>"
+            ],
+            "api_key": "AIzaSyB8jdNn1SowwLsHvHd7ZWdlXd0vYlnNvCA"
+        },
+        {
+            "width": 1920,
+            "height": 1080,
+            "photo_reference": "CmRaAAAAlS2oNlOGO262dAziOnjcaDIugzhUgzoD1za8NWh4YpJQipYb8iQsundUBoBXCsCOoC-3wFN-zfOVM2OiEMvpFssILR3mO37pnOorckfMr9y_lgnQ_Mh-fr1QgnrB87bqEhDLeAPj1FHVNviEqeGkpVR5GhR1s90JH9twbs42Vu1klDZ74OO4yg",
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114668876866943685011/photos\">Annika Bußmann</a>"
+            ],
+            "api_key": "AIzaSyB8jdNn1SowwLsHvHd7ZWdlXd0vYlnNvCA"
+        },
+        {
+            "width": 1920,
+            "height": 1080,
+            "photo_reference": "CmRaAAAASQirijVXxq2BSRUdJMHYrTjzK_kQo0BCMcDOR9xYu0kxDeKDjZwOITgoqgc5AoyS__BPhLTmZY_j7f50GpJldpFfGPvGESNamkYqyM5ePYoiA1MlFsWxPzorAN2i7p6uEhAug11FzORG0nHUT0QIGjbqGhTjWdCJAUY6AOOhcwFVS2OXZiknow",
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114668876866943685011/photos\">Annika Bußmann</a>"
+            ],
+            "api_key": "AIzaSyB8jdNn1SowwLsHvHd7ZWdlXd0vYlnNvCA"
+        },
+        {
+            "width": 4608,
+            "height": 3456,
+            "photo_reference": "CmRaAAAAfo7XOxRH-jRrGYepHPgUhN17R0_VDHe_QLeTm3rCxyiW_8y6frb4bAwUS1lDhAahcMuLk19nSC9JX-jl6P0hvpXkUAm567Y8ImxHW2iLKS2rWzXRrKU13hf7FtF-d92hEhA7kY8zOPH6oyuHOJrNChbmGhSdEYvLDX2EvpGE42h58NdtrCgJew",
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114668876866943685011/photos\">Annika Bußmann</a>"
+            ],
+            "api_key": "AIzaSyB8jdNn1SowwLsHvHd7ZWdlXd0vYlnNvCA"
+        }
+    ],
+    "reviews": [
+        {
+            "rating": 1,
+            "type": null,
+            "author_name": "Ieva L",
+            "author_url": "https://www.google.com/maps/contrib/110700891975812680625/reviews",
+            "text": "It's a construction site, doesn't seem that the thermal pool will be open soon...",
+            "time": 1535887151,
+            "profile_photo_url": "https://lh5.ggpht.com/-z1Cb4gq0GBY/AAAAAAAAAAI/AAAAAAAAAAA/7uagbBIag1I/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg"
+        },
+        {
+            "rating": 5,
+            "type": null,
+            "author_name": "Meiko _",
+            "author_url": "https://www.google.com/maps/contrib/115829013514950464979/reviews",
+            "text": "Genial - das ist Kunst.",
+            "time": 1531979661,
+            "profile_photo_url": "https://lh4.ggpht.com/-1jHUekJtTrs/AAAAAAAAAAI/AAAAAAAAAAA/wm_dOGoQaaY/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg"
+        },
+        {
+            "rating": 5,
+            "type": null,
+            "author_name": "Andreas Wöhling",
+            "author_url": "https://www.google.com/maps/contrib/107053648040613280001/reviews",
+            "text": "Sehr schön zum Spaziergang",
+            "time": 1533475476,
+            "profile_photo_url": "https://lh4.ggpht.com/-6RWsgMvptrw/AAAAAAAAAAI/AAAAAAAAAAA/Tpn_bs2VegM/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }
+    ],
+    "nextpagetoken": null,
+    "events": [],
+    "utc_offset": 120,
+    "permanently_closed": null
+}
