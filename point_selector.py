@@ -119,8 +119,6 @@ def select_best_point(points_close_to_initial_point, current_point):
 
 
 def get_distance_duration_between_points(current_point, next_point):
-    # print(current_point, next_point)
-    # breakpoint()
     # https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins=Washington,DC&destinations=New+York+City,NY&key=YOUR_API_KEY
     response = requests.get(
         f'https://maps.googleapis.com/maps/api/distancematrix/json?origins={current_point["lat"]}%2C{current_point["lng"]}&destinations={next_point["lat"]}%2C{next_point["lng"]}&mode=bicycling&units=metric&key={os.getenv("G_API_KEY")}'
@@ -153,7 +151,6 @@ if __name__ == "__main__":
     points_of_interest = [initial_point_details]
     loop = 0
     while (total_route_duration < difficulty) and loop != 3:
-        # breakpoint()
         points_close_to_initial_point = request_points_nearby(initial_point)
         best_point = select_best_point(points_close_to_initial_point, initial_point)
         info_between_points = get_distance_duration_between_points(
