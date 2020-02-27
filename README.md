@@ -1,11 +1,7 @@
-# alternative_trips
+# Hackathons
 
-This is a project I've started at the Kiwi Hackathon Barcelona 2019.
+This repository will contain all the code generated during my Hackthon's.
 
-The initial commit was all I did in the 24h Hackathon.
+## Kiwi Barcelona 2019
 
-The idea was to generate a random route based on an initial set point with different params like difficulty (a combination of elevation and distance) and location. We didn't manage to finish the integration in time with the frontend due to lack of consistency of GMaps data integration but the gist is as follows:
-- Get Nearby Interest Points from the GMaps Nearby API from an initial location set point away from the city
-- Set a course of random routes with the highest rated places within the difficulty constrains with the GMaps Directions API
-- Get more detailed data about the points in the route like reviews and pictures from the GMaps Places API
-- Feed all this information to be displayed on a map on the frontend with extra information about the points
+This Hackathon's theme was sustainability in Travel and our team decided to build a CO<sup>2</sup> free automated route planner based on the Google Maps API (Directions, Places, Nearby API) which essentially creates a work to Hike/Cycle, around nature points, away from the city centers but close enough to instigate people to go for a cycle/hike often, instead of going by car/plane somewhere else.
